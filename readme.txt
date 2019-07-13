@@ -1,4 +1,4 @@
-This is a Black Jack game writen in python my Musashi in July on 2019.
+This is a Black Jack game writen in python by Musashi in July on 2019.
 This Read Me document was writen in the Linux Terminal.
 
 21Game.py will run on its own but the 21Program.py file is meant to run with the 21Script.py file.  
